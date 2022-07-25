@@ -10,17 +10,17 @@ export class AppComponent {
 
   posts = [
     {
-      img:'',
+      img:'assets/image1.jpg',
       author:'John',
       title:'Title #1'
     },
     {
-      img:'',
+      img:'assets/image2.jpg',
       author:'Mike',
       title:'Title #2'
     },
     {
-      img:'',
+      img:'assets/image3.jpg',
       author:'Jane',
       title:'Title #3'
     }
